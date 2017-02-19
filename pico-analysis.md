@@ -16,7 +16,7 @@ example: I tried anchoring my habits in a chain of habits starting with somethin
 
 <h2>What are the recent failures?</h2>
 <h3><i> Share a learning from something you've tried and that did not work</i></h3>
-example: I tried compartimenting my weeks between days where I work to earn money and days where I learn. It has been a huge failure because customers call me on the "learning days" and I can't help but take the phone and start working again...
+example: I tried splitting my weeks between days where I work to earn money and days where I learn. It has been a huge failure because customers call me on the "learning days" and I can't help but take the phone and start working again...
 
 <h2>What are the current roadblocks?</h2>
 <h3><i> What is in your way right now?</i></h3>
